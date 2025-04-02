@@ -1,4 +1,3 @@
-# ML-project-1
 # Energy Consumption Data Analysis and Visualization using ML
 
 **Columms and their description:**
@@ -38,5 +37,3 @@
    - **Household Size Distribution**: A bar plot showing the distribution of household sizes.
    - **Smart Meter Installation by Region**: A bar plot showing the number of smart meters installed by region.
    - **Time of Day Pricing Adoption by Region**: A bar plot showing the number of households with time-of-day pricing by region.
-
-Let me know if you need any further details or assistance!
