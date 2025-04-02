@@ -56,12 +56,6 @@ sns.heatmap(numerical_df.corr(), annot=True, cmap='coolwarm')
 plt.title('Heatmap of Feature Correlations')
 plt.show()
 
-# Comments explaining each visual:
-# 1. Histograms: These plots show the distribution of numerical features in the dataset.
-# 2. Boxplot: This plot helps in visualizing the presence of outliers in numerical features.
-# 3. Pairplot: This plot shows pairwise relationships between numerical features.
-# 4. Heatmap: This plot shows the correlation between different numerical features in the dataset.
-
 # Additional Visualizations
 # Plot 1: Total Energy Consumption by Region
 plt.figure(figsize=(10, 6))
